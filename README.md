@@ -1,5 +1,6 @@
-Chat with nodejs trust
-have to use terminal
+Chat with nodejs trust.
+You have to use the terminal.
+Just open a codespace fore this repository and open the terminal on there.
 1. Update Node.js all the way
 ```
 nvm install node

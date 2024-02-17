@@ -12,7 +12,7 @@ npm install socket.io
 ```
 npm install express
 ```
-4. How you can start the server!
+4. Now you can start the server!
 ```
 node server.js
 ```
